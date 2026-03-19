@@ -16,7 +16,7 @@
                             placeholder="What's on your mind?"
                             class="textarea textarea-bordered w-full resize-none"
                             rows="4"
-                            maxlength="255"
+                            max-length="255"
                             required
                         >{{ old('message') }}</textarea>
                         

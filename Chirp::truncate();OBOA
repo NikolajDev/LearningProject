@@ -1,0 +1,75 @@
+[90m= [39m[34;4mIlluminate\Support\Collection[39;24m {#5391
+    [34mall[39m: [
+      {#5390
+        +"[1mid[22m": [35m2[39m,
+        +"[1muser_id[22m": [35m1[39m,
+        +"[1mmessage[22m": "[32mAnother is a new associated chirp created by tinker![39m",
+        +"[1mcreated_at[22m": "[32m2026-03-18 20:24:03[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-18 20:24:03[39m",
+      },
+      {#5388
+        +"[1mid[22m": [35m3[39m,
+        +"[1muser_id[22m": [35m1[39m,
+        +"[1mmessage[22m": "[32mAnother is a new associated chirp created by tinker![39m",
+        +"[1mcreated_at[22m": "[32m2026-03-18 20:24:54[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-18 20:24:54[39m",
+      },
+      {#5366
+        +"[1mid[22m": [35m4[39m,
+        +"[1muser_id[22m": [36mnull[39m,
+        +"[1mmessage[22m": "[32mAnother is a new associated chirp created by tinker![39m",
+        +"[1mcreated_at[22m": "[32m2026-03-18 20:36:45[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-18 20:36:45[39m",
+      },
+      {#5393
+        +"[1mid[22m": [35m5[39m,
+        +"[1muser_id[22m": [35m4[39m,
+        +"[1mmessage[22m": "[32mJust discovered Laravel - where has this been all my life? 🚀[39m",
+        +"[1mcreated_at[22m": "[32m2026-03-18 19:05:14[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-19 06:12:14[39m",
+      },
+      {#5373
+        +"[1mid[22m": [35m6[39m,
+        +"[1muser_id[22m": [35m2[39m,
+        +"[1mmessage[22m": "[32mBuilding something cool with Chirper today![39m",
+        +"[1mcreated_at[22m": "[32m2026-03-18 17:01:14[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-19 06:12:14[39m",
+      },
+      {#5372
+        +"[1mid[22m": [35m7[39m,
+        +"[1muser_id[22m": [35m4[39m,
+        +"[1mmessage[22m": "[32mLaravel's Eloquent ORM is pure magic ✨[39m",
+        +"[1mcreated_at[22m": "[32m2026-03-18 12:19:14[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-19 06:12:14[39m",
+      },
+      {#5392
+        +"[1mid[22m": [35m8[39m,
+        +"[1muser_id[22m": [35m4[39m,
+        +"[1mmessage[22m": "[32mDeployed my first app with Laravel Cloud. So smooth![39m",
+        +"[1mcreated_at[22m": "[32m2026-03-18 10:28:14[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-19 06:12:14[39m",
+      },
+      {#5365
+        +"[1mid[22m": [35m9[39m,
+        +"[1muser_id[22m": [35m3[39m,
+        +"[1mmessage[22m": "[32mWho else is loving Blade components?[39m",
+        +"[1mcreated_at[22m": "[32m2026-03-18 19:25:14[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-19 06:12:14[39m",
+      },
+      {#5375
+        +"[1mid[22m": [35m10[39m,
+        +"[1muser_id[22m": [35m4[39m,
+        +"[1mmessage[22m": "[32mFriday deploys with Laravel? No problem! 😎[39m",
+        +"[1mcreated_at[22m": "[32m2026-03-18 20:53:14[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-19 06:12:14[39m",
+      },
+      {#5377
+        +"[1mid[22m": [35m11[39m,
+        +"[1muser_id[22m": [36mnull[39m,
+        +"[1mmessage[22m": "[32mI do not have anything on my mind[39m",
+        +"[1mcreated_at[22m": "[32m2026-03-19 08:22:44[39m",
+        +"[1mupdated_at[22m": "[32m2026-03-19 08:22:44[39m",
+      },
+    ],
+  }
+
