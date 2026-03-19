@@ -17,7 +17,6 @@
                             class="textarea textarea-bordered w-full resize-none"
                             rows="4"
                             max-length="255"
-                            required
                         >{{ old('message') }}</textarea>
                         
                         @error('message')
